@@ -1,4 +1,4 @@
-#❗  This is a Forked Repository from Mr. AYIDouble. I have been trying to solve the **mint** function but to no avail. I am trying to build a very basic ERC721 token for my school project. Please help me review this repository and help me fix it to working condition. I am new to Github. ❗  #
+❗  This is a Forked Repository from Mr. AYIDouble. No copyright and intellectual property infringement intended. I have been trying to solve the **mint** function but to no avail. I only use Remix. I am trying to build a very basic ERC721 token for my school project. Please help me review this repository and help me fix it to working condition. I am new to Github. ❗
 
 🔮 Very Simple **ERC-721 Smart Contract Template** to create your own **ERC-721 Tokens** on the **Ethereum** Blockchain, with many customizable Options 🔮
 
